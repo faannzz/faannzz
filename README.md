@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/4nww1a.gif" alt="Banner" width="100%" style="border-radius:12px"/>
+  <img src="./assets/239550.gif" alt="Banner" width="100%" style="border-radius:12px"/>
 </p>
 
 <h1 align="center">FANN</h1>
