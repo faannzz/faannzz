@@ -130,4 +130,8 @@ I enjoy learning new technologies, solving problems, and turning ideas into real
   <a href="https://open.spotify.com/user/3136ssly6cg3f2fdgc6bglyk4bmm?si=vxOOksFRS2mUQLLsm3-Jqw"><img src="https://img.shields.io/badge/Spotify-0D1117?style=for-the-badge&logo=spotify&logoColor=1DB954"/></a>
 </p>
 
+
 <hr>
+<p align="center">
+  <img src="https://files.catbox.moe/0u5v8i.gif" alt="Banner" width="100%" style="border-radius:12px"/>
+</p>
