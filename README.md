@@ -35,19 +35,37 @@ I enjoy learning new technologies, solving problems, and turning ideas into real
 <h2>🛠 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933"/>
-  <img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/>
-  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC"/>
-</p>
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000"/>
 
-<hr>
+  <br>
+
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Java-F1502F?style=for-the-badge&logo=openjdk&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff"/>
+
+  <br>
+
+  <!-- Database & Tools -->
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff"/>
+
+  <br>
+
+  <!-- Cyber Security -->
+  <img src="https://img.shields.io/badge/Nmap-FF0000?style=for-the-badge&logo=kalilinux&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Metasploit-0000FF?style=for-the-badge&logo=metasploit&logoColor=ffffff"/>
+</p><hr>
 
 <h2>🌐 Connect With Me</h2>
 
