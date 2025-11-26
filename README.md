@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.gif" alt="Banner" width="100%" style="border-radius:12px"/>
+  <img src="./faannzz/banner.gif" alt="Banner" width="100%" style="border-radius:12px"/>
 </p>
 
 <h1 align="center">FANN</h1>
