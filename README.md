@@ -131,6 +131,3 @@ I enjoy learning new technologies, solving problems, and turning ideas into real
 </p>
 
 <hr>
-<p align="center">
-  <img src="https://files.catbox.moe/0u5v8i.gif" alt="Banner" width="100%" style="border-radius:12px"/>
-</p>
