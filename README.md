@@ -62,6 +62,3 @@ I enjoy learning new technologies, solving problems, and turning ideas into real
 
 <hr>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/faannzz/count.svg" alt="Visitor Count"/>
-</p>
