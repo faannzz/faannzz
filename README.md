@@ -82,8 +82,6 @@
 
 <br/>
 
-<sub>Kalau ada proyek menarik atau mau kolaborasi, hubungi lewat Instagram.</sub>
-
 </div>
 
 <br/>
