@@ -6,12 +6,6 @@
 
 <br/>
 
-<a href="#tentang">TENTANG</a> &nbsp;/&nbsp;
-<a href="#tech-stack">TECH STACK</a> &nbsp;/&nbsp;
-<a href="#statistik">STATISTIK</a> &nbsp;/&nbsp;
-<a href="#proyek">PROYEK</a> &nbsp;/&nbsp;
-<a href="#kontak">KONTAK</a>
-
 <br/><br/>
 
 ![Followers](https://img.shields.io/github/followers/faannzz?style=for-the-badge&labelColor=0a0a0a&color=FFE14D&label=FOLLOWERS)
@@ -72,18 +66,6 @@
 
 <img src="./divider2.svg" width="100%" alt="" />
 
-## Kontak
 
-<div align="center">
-
-<a href="https://instagram.com/USERNAME_IG_LO"><img src="./btn-instagram.svg" height="60" alt="Instagram" /></a>
-<a href="https://github.com/faannzz"><img src="./btn-github.svg" height="60" alt="GitHub" /></a>
-<a href="https://www.buymeacoffee.com/USERNAME_LO"><img src="./btn-coffee.svg" height="60" alt="Buy me a coffee" /></a>
-
-<br/>
-
-</div>
-
-<br/>
 
 <img src="./footer.svg" width="100%" alt="Terima kasih sudah mampir" />
